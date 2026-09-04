@@ -2,9 +2,9 @@
 
 ### 🤖 AI Engineer | Machine Learning | Computer Vision | NLP
 
-🎓 B.E. in Artificial Intelligence and Machine Learning  
-💼 Junior AI Engineer Intern  
-📍 Karnataka, India  
+🎓 B.E. in Artificial Intelligence and Machine Learning
+💼 Junior AI Engineer Intern
+📍 Bengaluru, Karnataka, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-vinith008-black?style=flat&logo=github)](https://github.com/vinith008)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinith%20K-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinith-k-313768361/)
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** with a B.E. in **Artificial Intelligence and Machine Learning**, passionate about building practical AI and machine learning solutions.
+I'm a highly motivated **AI/ML graduate** currently working as a **Junior AI Engineer Intern**, with hands-on experience building real-world applications using Python, Machine Learning, Computer Vision, NLP, and full-stack web development.
 
 I have hands-on experience in:
 
@@ -25,9 +25,10 @@ I have hands-on experience in:
 - 🧠 NLP & LLM Applications
 - 📊 Data Science & Data Analysis
 - 🐍 Python Development
+- 🌐 Full-Stack Web Development (Django, Flask, FastAPI)
 - ⚡ Edge AI Deployment
 
-Currently, I work on **Computer Vision and sports analytics solutions**, including dataset preparation, model training, evaluation, and real-time inference.
+Currently, I work on **Computer Vision and IoT solutions for sports analytics**, including dataset preparation, model training, evaluation, and real-time inference deployed on edge devices.
 
 I enjoy transforming ideas into working AI systems and continuously improving my technical skills through projects and experimentation.
 
@@ -36,37 +37,29 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 ## 💼 Experience
 
 ### 🤖 Junior AI Engineer Intern
+**Client Project: Gopalan Enterprises (India) Private Limited**
+*Through David Gladson Consultancy* | Jun 2026 – Present
 
-**Gopalan Enterprises (India) Pvt. Ltd.**  
-*Through David Gladson Consultancy*
-
-- Developing Computer Vision solutions for sports analytics.
-- Building image and video processing pipelines.
-- Working with Python, OpenCV, YOLO, and Deep Learning.
-- Preparing datasets through annotation, preprocessing, and augmentation.
-- Training and evaluating object detection models.
-- Working with NVIDIA Jetson Orin Nano and Raspberry Pi for edge AI applications.
-- Collaborating with stakeholders to develop AI-powered solutions.
-
-### 📊 Data Science Intern
-
-**Kodenst Campus2 Internship**  
-*February 2026 – May 2026*
-
-- Worked on Python-based Data Science and Machine Learning tasks.
-- Performed data preprocessing and exploratory data analysis.
-- Created data visualizations using Python.
-- Applied machine learning techniques for predictive analysis.
-- Worked with Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Developing computer vision and IoT solutions for sports analytics using Python, OpenCV, YOLO, and deep learning.
+- Building image and video processing pipelines for object detection, tracking, and real-time inference.
+- Deploying AI and IoT applications on Raspberry Pi for real-time edge computing solutions.
+- Preparing and optimizing datasets through annotation, preprocessing, augmentation, training, and evaluation.
 
 ### 🐍 Python & Applied Machine Learning Intern
-
-**Karunadu Technologies Private Limited**
+**Karunadu Technologies Private Limited** | Feb 2026 – May 2026
 
 - Developed Python-based solutions for data processing and automation.
-- Applied machine learning algorithms for predictive analysis.
-- Performed feature engineering and model evaluation.
-- Worked with Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Applied machine learning algorithms for predictive analysis and model development.
+- Performed data preprocessing, feature engineering, and model evaluation.
+- Worked with NumPy, Pandas, Matplotlib, and Scikit-learn.
+
+### 📊 Data Science Intern
+**Kodenst Campus2 Internship** | Feb 2026 – May 2026
+
+- Completed a Data Science internship focused on Python, data analysis, and machine learning.
+- Performed data preprocessing, exploratory data analysis, and visualization using Python.
+- Applied machine learning techniques for data-driven analysis and predictive modeling.
+- Worked with Pandas, NumPy, Matplotlib, and Scikit-learn to analyze and process datasets.
 
 ---
 
@@ -92,7 +85,7 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**YOLOv8 • YOLOv11 • Object Detection • Object Tracking • Image Processing • Video Analytics**
+**YOLO • Object Detection • Object Tracking • Image Processing • Video Analytics**
 
 ### 🧠 NLP & Generative AI
 
@@ -104,15 +97,15 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**HTML • CSS • Django • Flask • FastAPI**
+**HTML • CSS • Django • Flask • FastAPI • API Development**
 
 ### 📊 Data & Visualization
 
-**Pandas • NumPy • Matplotlib • Seaborn • Power BI • MS Excel**
+**Pandas • NumPy • Matplotlib • Power BI • MS Excel**
 
 ### 🗄️ Databases
 
-**MySQL • SQLite • SQL**
+**MySQL • SQL • Firebase**
 
 ### 🛠️ Tools & Platforms
 
@@ -120,7 +113,7 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 
 ### ⚡ Edge AI
 
-**NVIDIA Jetson Orin Nano • Raspberry Pi**
+**Raspberry Pi • IoT**
 
 ---
 
@@ -128,105 +121,57 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 
 ## 🔋 AI & IoT-Enabled Smart Battery Management System
 
-An intelligent Battery Management System designed for real-time battery monitoring and analysis.
+An intelligent Battery Management System built with Python, Machine Learning, IoT, sensors, and data analysis for real-time monitoring of voltage, current, temperature, State of Charge (SoC), and State of Health (SoH).
 
 ### Features
 
-- Real-time voltage monitoring
-- Current monitoring
-- Temperature monitoring
+- Real-time voltage, current, and temperature monitoring
 - State of Charge (SoC) monitoring
 - State of Health (SoH) analysis
 - Battery degradation prediction
 - Anomaly detection
 - Real-time alerts and notifications
 
-**Technologies:**  
+**Technologies:**
 `Python` `Machine Learning` `IoT` `Sensors` `Data Analysis`
+
+---
+
+## 🛡️ AI-Powered Phishing Detection for Multi-Channel Communication
+
+An intelligent phishing detection system that identifies suspicious attempts across emails, SMS, and chat platforms by analyzing message content, metadata, and link behavior to provide real-time alerts.
+
+**Technologies:**
+`Python` `Machine Learning` `NLP` `Scikit-learn` `Flask`
 
 ---
 
 ## 🏏 Computer Vision Sports Analytics
 
-Developing Computer Vision solutions for sports analytics as part of my current AI engineering work.
+Developing Computer Vision and IoT solutions for sports analytics as part of my current AI engineering work.
 
 ### Work Includes
 
-- Object detection
-- Object tracking
+- Object detection and tracking
 - Video frame processing
-- Dataset annotation
-- Dataset cleaning
-- Data augmentation
-- YOLO model training
-- Model evaluation
+- Dataset annotation, cleaning, and augmentation
+- YOLO model training and evaluation
 - Real-time inference
-- Edge AI deployment
+- Edge AI deployment on Raspberry Pi
 
-**Technologies:**  
-`Python` `OpenCV` `YOLOv8` `YOLOv11` `PyTorch` `Roboflow`
-
----
-
-## 🚗 Vehicle Speed Detection System
-
-A Computer Vision-based system for detecting and estimating vehicle speed from video.
-
-### Features
-
-- Vehicle detection
-- Object tracking
-- Video frame processing
-- Speed estimation
-- Distance-based calculation
-
-**Technologies:**  
-`Python` `OpenCV` `Object Detection` `Object Tracking`
-
----
-
-## 🌐 Website Audit Tool
-
-A web-based tool designed to analyze websites and generate structured audit information.
-
-### Features
-
-- Website analysis
-- Broken link detection
-- Performance analysis
-- SEO-related checks
-- Structured reports
-
-**Technologies:**  
-`Python` `Django/Flask` `HTML` `CSS` `SQL`
-
----
-
-## 🎤 AI Interview Feedback System
-
-An AI-based project designed to analyze interview-related signals and provide feedback.
-
-### Analysis Areas
-
-- Speech patterns
-- Facial expressions
-- Voice characteristics
-- Communication-related indicators
-- Confidence-related feedback
-
-**Technologies:**  
-`Python` `NLP` `Computer Vision` `Machine Learning`
+**Technologies:**
+`Python` `OpenCV` `YOLO` `PyTorch` `Roboflow`
 
 ---
 
 # 📚 Certifications & Achievements
 
-🏆 Machine Learning Certification  
-🏆 Deep Learning with TensorFlow Certification  
-🏆 Web Development Certification  
-🏆 Java Programming Certification  
-🏆 Python Programming Certification  
-🏆 C Programming Certification  
+🏆 Machine Learning Certification
+🏆 Deep Learning with TensorFlow Certification
+🏆 Web Development Certification
+🏆 Java Programming Certification
+🏆 Python Programming Certification
+🏆 C Programming Certification
 🏆 Participated in **IEEE HACKYUGMA State-Level Hackathon**
 
 ---
@@ -235,7 +180,7 @@ An AI-based project designed to analyze interview-related signals and provide fe
 
 ### PES Institute of Technology and Management, Shivamogga
 
-**B.E. in Artificial Intelligence and Machine Learning**  
+**B.E. in Artificial Intelligence and Machine Learning**
 Visvesvaraya Technological University (VTU), Belagavi
 
 **2022 – 2026 | CGPA: 7.54 / 10**
@@ -276,11 +221,10 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 # 📈 What I'm Currently Working On
 
-- 🤖 Computer Vision and Sports Analytics
-- 🏏 Cricket video analysis
+- 🤖 Computer Vision and IoT-based Sports Analytics
 - 🎯 YOLO-based object detection
 - 🎥 Video processing and object tracking
-- ⚡ Edge AI deployment
+- ⚡ Edge AI deployment on Raspberry Pi
 - 🧠 Machine Learning model optimization
 - 📊 Data Science and Machine Learning projects
 
@@ -313,3 +257,4 @@ Data Science
 Edge AI
 Sports Analytics
 AI Model Deployment
+```
