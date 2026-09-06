@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vinith008-black?style=flat&logo=github)](https://github.com/vinith008)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinith%20K-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinith-k-313768361/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://vinith08.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://vinithaiml.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:vinithkharvi2004@gmail.com)
 
 ---
