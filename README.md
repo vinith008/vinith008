@@ -37,8 +37,7 @@ I enjoy transforming ideas into working AI systems and continuously improving my
 ## 💼 Experience
 
 ### 🤖 Junior AI Engineer Intern
-**Client Project: Gopalan Enterprises (India) Private Limited**
-*Through David Gladson Consultancy* | Jun 2026 – Present
+**Gopalan Enterprises (India) Private Limited** Jun 2026 – Present
 
 - Developing computer vision and IoT solutions for sports analytics using Python, OpenCV, YOLO, and deep learning.
 - Building image and video processing pipelines for object detection, tracking, and real-time inference.
