@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vinith008-black?style=flat&logo=github)](https://github.com/vinith008)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinith%20K-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinith-k-313768361/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://vinithaiml.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://vinith-aiml.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:vinithkharvi2004@gmail.com)
 
 ---
@@ -31,34 +31,6 @@ I have hands-on experience in:
 Currently, I work on **Computer Vision and IoT solutions for sports analytics**, including dataset preparation, model training, evaluation, and real-time inference deployed on edge devices.
 
 I enjoy transforming ideas into working AI systems and continuously improving my technical skills through projects and experimentation.
-
----
-
-## 💼 Experience
-
-### 🤖 Junior AI Engineer Intern
-**Gopalan Enterprises (India) Private Limited** |Jun 2026 – Present
-
-- Developing computer vision and IoT solutions for sports analytics using Python, OpenCV, YOLO, and deep learning.
-- Building image and video processing pipelines for object detection, tracking, and real-time inference.
-- Deploying AI and IoT applications on Raspberry Pi for real-time edge computing solutions.
-- Preparing and optimizing datasets through annotation, preprocessing, augmentation, training, and evaluation.
-
-### 🐍 Python & Applied Machine Learning Intern
-**Karunadu Technologies Private Limited** | Feb 2026 – May 2026
-
-- Developed Python-based solutions for data processing and automation.
-- Applied machine learning algorithms for predictive analysis and model development.
-- Performed data preprocessing, feature engineering, and model evaluation.
-- Worked with NumPy, Pandas, Matplotlib, and Scikit-learn.
-
-### 📊 Data Science Intern
-**Kodenst Campus2 Internship** | Feb 2026 – May 2026
-
-- Completed a Data Science internship focused on Python, data analysis, and machine learning.
-- Performed data preprocessing, exploratory data analysis, and visualization using Python.
-- Applied machine learning techniques for data-driven analysis and predictive modeling.
-- Worked with Pandas, NumPy, Matplotlib, and Scikit-learn to analyze and process datasets.
 
 ---
 
